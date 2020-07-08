@@ -124,5 +124,8 @@
       "level":"99"
    }
   ],
-  "total": "15"
+  "config": {
+    "total": "15",
+    "perPage": "10"
+  }
 }
