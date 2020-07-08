@@ -11,5 +11,24 @@
   ],
   "profile": {
     "name": "typicode"
-  }
+  },
+  "data": [
+    { 
+     "id":"id1",
+     "code":"code1",
+     "name":"Role1",
+     "description":"test description Role1",
+     "status":1,
+     "level":"99"
+    },
+    { 
+     "id":"id2",
+     "code":"code2",
+     "name":"Role2",
+     "description":"test description Role2",
+     "status":0,
+     "level":"99"
+    }
+  ],
+  "total": 2
 }
