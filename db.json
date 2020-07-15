@@ -186,5 +186,52 @@
       "effectiveTo":"",
       "role":"152"
    }
+  ],
+  "addSysUser": [
+    {
+      "contactId": "123456",
+      "employeeNo": "987654",
+      "firstname": "หนึ่ง",
+      "lastname": "ถนอมดี",
+      "company": "Outsource",
+      "department": "สำนักงานสารสนเทศ",
+      "deptAddress": "อาคาร เล้าเป้งง้วน 1"
+    },
+    {
+      "contactId": "123456",
+      "employeeNo": "987654",
+      "firstname": "สอง"
+      "lastname": "ถนอมดี",
+      "company": "Outsource",
+      "department": "สำนักงานสารสนเทศ",
+      "deptAddress": "อาคาร เล้าเป้งง้วน 1"
+    },
+    {
+      "contactId": "123456",
+      "employeeNo": "987654",
+      "firstname": "สาม",
+      "lastname": "ถนอมดี",
+      "company": "Outsource",
+      "department": "สำนักงานสารสนเทศ",
+      "deptAddress": "อาคาร เล้าเป้งง้วน 1"
+    },
+    {
+      "contactId": "123456",
+      "employeeNo": "987654",
+      "firstname": "สี่",
+      "lastname": "ถนอมดี",
+      "company": "Outsource",
+      "department": "สำนักงานสารสนเทศ",
+      "deptAddress": "อาคาร เล้าเป้งง้วน 1"
+    },
+    {
+      "contactId": "123456",
+      "employeeNo": "987654",
+      "firstname": "ห้า",
+      "lastname": "ถนอมดี",
+      "company": "Outsource",
+      "department": "สำนักงานสารสนเทศ",
+      "deptAddress": "อาคาร เล้าเป้งง้วน 1"
+    }
   ]
 }
