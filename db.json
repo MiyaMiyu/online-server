@@ -241,15 +241,6 @@
       "company": "Outsource",
       "department": "สำนักงานสารสนเทศ",
       "deptAddress": "อาคาร เล้าเป้งง้วน 1"
-    },
-    {
-      "contactId": "000007",
-      "employeeNo": "987654",
-      "firstName": "เจ็ด",
-      "lastName": "ถนอมดี",
-      "company": "Outsource",
-      "department": "สำนักงานสารสนเทศ",
-      "deptAddress": "อาคาร เล้าเป้งง้วน 1"
     }
   ]
 }
