@@ -189,46 +189,64 @@
   ],
   "addSysUser": [
     {
-      "contactId": "123456",
+      "contactId": "000001",
       "employeeNo": "987654",
-      "firstname": "หนึ่ง",
-      "lastname": "ถนอมดี",
+      "firstName": "หนึ่ง",
+      "lastName": "ถนอมดี",
       "company": "Outsource",
       "department": "สำนักงานสารสนเทศ",
       "deptAddress": "อาคาร เล้าเป้งง้วน 1"
     },
     {
-      "contactId": "123456",
+      "contactId": "000002",
       "employeeNo": "987654",
-      "firstname": "สอง",
-      "lastname": "ถนอมดี",
+      "firstName": "สอง",
+      "lastName": "ถนอมดี",
       "company": "Outsource",
       "department": "สำนักงานสารสนเทศ",
       "deptAddress": "อาคาร เล้าเป้งง้วน 1"
     },
     {
-      "contactId": "123456",
+      "contactId": "000003",
       "employeeNo": "987654",
-      "firstname": "สาม",
-      "lastname": "ถนอมดี",
+      "firstName": "สาม",
+      "lastName": "ถนอมดี",
       "company": "Outsource",
       "department": "สำนักงานสารสนเทศ",
       "deptAddress": "อาคาร เล้าเป้งง้วน 1"
     },
     {
-      "contactId": "123456",
+      "contactId": "000004",
       "employeeNo": "987654",
       "firstname": "สี่",
-      "lastname": "ถนอมดี",
+      "lastName": "ถนอมดี",
       "company": "Outsource",
       "department": "สำนักงานสารสนเทศ",
       "deptAddress": "อาคาร เล้าเป้งง้วน 1"
     },
     {
-      "contactId": "123456",
+      "contactId": "000005",
       "employeeNo": "987654",
-      "firstname": "ห้า",
-      "lastname": "ถนอมดี",
+      "firstName": "ห้า",
+      "lastName": "ถนอมดี",
+      "company": "Outsource",
+      "department": "สำนักงานสารสนเทศ",
+      "deptAddress": "อาคาร เล้าเป้งง้วน 1"
+    },
+    {
+      "contactId": "000006",
+      "employeeNo": "987654",
+      "firstName": "หก",
+      "lastName": "ถนอมดี",
+      "company": "Outsource",
+      "department": "สำนักงานสารสนเทศ",
+      "deptAddress": "อาคาร เล้าเป้งง้วน 1"
+    },
+    {
+      "contactId": "000007",
+      "employeeNo": "987654",
+      "firstName": "เจ็ด",
+      "lastName": "ถนอมดี",
       "company": "Outsource",
       "department": "สำนักงานสารสนเทศ",
       "deptAddress": "อาคาร เล้าเป้งง้วน 1"
