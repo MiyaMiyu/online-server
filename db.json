@@ -6,7 +6,7 @@
       "code":"code1",
       "name":"Role1",
       "description":"test description Role1",
-      "status":1,
+      "status":"1",
       "level":"99"
    },
    {
@@ -14,7 +14,7 @@
       "code":"code2",
       "name":"Role2",
       "description":"test description Role2",
-      "status":0,
+      "status":"0",
       "level":"99"
    },
    {
@@ -22,7 +22,7 @@
       "code":"code3",
       "name":"Role3",
       "description":"test description Role3",
-      "status":1,
+      "status":"1",
       "level":"99"
    },
    {
@@ -30,7 +30,7 @@
       "code":"code4",
       "name":"Role4",
       "description":"test description Role4",
-      "status":0,
+      "status":"0",
       "level":"99"
    },
    {
@@ -38,7 +38,7 @@
       "code":"code5",
       "name":"Role5",
       "description":"test description Role5",
-      "status":1,
+      "status":"1",
       "level":"99"
    },
    {
@@ -46,7 +46,7 @@
       "code":"code6",
       "name":"Role6",
       "description":"test description Role6",
-      "status":0,
+      "status":"0",
       "level":"99"
    },
    {
@@ -54,7 +54,7 @@
       "code":"code7",
       "name":"Role7",
       "description":"test description Role7",
-      "status":1,
+      "status":"1",
       "level":"99"
    },
    {
@@ -62,7 +62,7 @@
       "code":"code8",
       "name":"Role8",
       "description":"test description Role8",
-      "status":0,
+      "status":"0",
       "level":"99"
    },
    {
@@ -70,7 +70,7 @@
       "code":"code9",
       "name":"Role9",
       "description":"test description Role9",
-      "status":1,
+      "status":"1",
       "level":"99"
    },
    {
@@ -78,7 +78,7 @@
       "code":"code10",
       "name":"Role10",
       "description":"test description Role10",
-      "status":0,
+      "status":"0",
       "level":"99"
    },
     {
@@ -86,7 +86,7 @@
       "code":"code11",
       "name":"Role11",
       "description":"test description Role11",
-      "status":1,
+      "status":"1",
       "level":"99"
    },
    {
@@ -94,7 +94,7 @@
       "code":"code12",
       "name":"Role12",
       "description":"test description Role12",
-      "status":0,
+      "status":"0",
       "level":"99"
    },
    {
@@ -102,7 +102,7 @@
       "code":"code13",
       "name":"Role13",
       "description":"test description Role13",
-      "status":1,
+      "status":"1",
       "level":"99"
    },
    {
@@ -110,7 +110,7 @@
       "code":"code14",
       "name":"Role14",
       "description":"test description Role14",
-      "status":0,
+      "status":"0",
       "level":"99"
    },
    {
@@ -118,7 +118,7 @@
       "code":"code15",
       "name":"Role15",
       "description":"test description Role15",
-      "status":1,
+      "status":"1",
       "level":"99"
    },
     {
@@ -126,7 +126,7 @@
       "code":"code16",
       "name":"Role16",
       "description":"test description Role16",
-      "status":0,
+      "status":"0",
       "level":"99"
    },
    {
@@ -134,7 +134,7 @@
       "code":"code17",
       "name":"Role17",
       "description":"test description Role17",
-      "status":1,
+      "status":"1",
       "level":"99"
    },
    {
@@ -142,7 +142,7 @@
       "code":"code18",
       "name":"Role18",
       "description":"test description Role18",
-      "status":0,
+      "status":"0",
       "level":"99"
    },
    {
@@ -150,7 +150,7 @@
       "code":"code19",
       "name":"Role19",
       "description":"test description Role19",
-      "status":1,
+      "status":"1",
       "level":"99"
    },
    {
@@ -158,7 +158,7 @@
       "code":"code20",
       "name":"Role20",
       "description":"test description Role20",
-      "status":0,
+      "status":"0",
       "level":"99"
    }
   ],
